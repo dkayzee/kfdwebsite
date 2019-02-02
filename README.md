@@ -1,4 +1,4 @@
-##Frontend Project
+## Frontend Project
 
 I wanted to replicate a beautiful website that I admire using React. It's none other than http://www.kfdelicacy.com ! It is the website for my favorite soup dumpling spot in NYC.
 
