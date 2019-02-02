@@ -1,3 +1,7 @@
+##Frontend Project
+
+I wanted to replicate a beautiful website that I admire using React. It's none other than http://www.kfdelicacy.com ! It is the website for my favorite soup dumpling spot in NYC.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
